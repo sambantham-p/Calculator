@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'digital-7';
+    src: url('../assetes/image/digital-7.ttf');
+}
+.screen{
+    font-family: 'digital-7';
+    display: block;
+    font-size: 3.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    height:25px;
+    border: none;
+    background-color: aqua;
+    text-align: right;
+    width: 90%;
+    padding-right: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
