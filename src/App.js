@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   return (
+    /*This is app.js*/
     <div className="App">
       <Layout>
 
